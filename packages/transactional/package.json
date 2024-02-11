@@ -7,7 +7,7 @@
     "export": "email export"
   },
   "dependencies": {
-    "@react-email/components": "latest",
-    "react-email": "latest"
+    "@react-email/components": "0.0.14",
+    "react-email": "2.0.0"
   }
 }
