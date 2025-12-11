@@ -8,8 +8,6 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
-    "@types/react": "19.2.7",
-    "@types/react-dom": "19.2.3",
     "turbo": "latest",
     "typescript": "^5.2.2"
   },
