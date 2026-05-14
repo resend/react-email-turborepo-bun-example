@@ -9,12 +9,13 @@
     "start": "email start"
   },
   "dependencies": {
+    "@react-email/ui": "6.1.4",
     "react": "19.2.1",
-    "react-dom": "19.2.1"
+    "react-dom": "19.2.1",
+    "react-email": "6.1.4"
   },
   "devDependencies": {
     "@types/react": "19.2.7",
-    "@types/react-dom": "19.2.3",
-    "react-email": "6.1.4"
+    "@types/react-dom": "19.2.3"
   }
 }
