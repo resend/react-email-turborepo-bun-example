@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "react": "19.2.1",
-    "react-dom": "19.2.1",
+    "react-dom": "19.2.8",
     "react-email": "6.1.4"
   },
   "devDependencies": {
